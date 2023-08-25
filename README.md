@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# A Dashboard App 
+FEATURES: This app contains a light and dark mode, Interactive Data grid tables, Form validation, Interactive Calendar(contains adding events), Interactive Charts(bar,line,pie,map ...) and It is fully responsive. 
+Tech stack: I made this app using React.js, Tailwindcss, React Router, MaterialUi Data grid, Formik + yup  for the form validation, fullCalendar for the interactive calendar, and nivo Charts for the Line,Bar,Pie, and the Choropleth map Charts.
