@@ -293,7 +293,7 @@ const index = () => {
         </div>
         <div className=" h-80 desktop:h-auto tablet:col-span-2 desktop:col-span-4 bg-Primary-light-element dark:bg-Primary-dark-element rounded-md p-2 flex flex-col">
           <div className=" font-semibold text-lg">Select Quantity</div>
-          <div className=" h-full">
+          <div className=" h-full text-gray-700">
             <ResponsiveBar
               data={BarData}
               keys={[
